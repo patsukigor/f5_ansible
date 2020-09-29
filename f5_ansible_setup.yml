@@ -45,7 +45,7 @@
   vars:
    path:
      target: "/usr/share/ansible/"
-     source: "https://raw.githubusercontent.com/"
+     source: "https://githubu.com/"
 
    programs:
      - {repo: "joelwking/ansible-nxapi/master/", fn: csv_to_facts.py, dn: "{{path.target}}" }
