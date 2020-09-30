@@ -1,3 +1,0 @@
-appliance;primary;hostname;"	domain";vlan_ext_selfip;"vlan_ext_selfmask	";vlan_ext_float;"vlan_ext	";"vlan_ext_tag	";vlan_int_selfip;vlan_int_selfmask;vlan_int_float;"vlan_int	";vlan_int_tag;vlan_ha_selfip;vlan_ha_selfmask;vlan_ha;vlan_ha_tag;trunk;trunk_int_1;trunk_int_2;add_trust_ip;add_trust_host;dns_server_1;dns_server_2;ntp_server_1;ntp_server_2;syslog_server
-10.1.2.196;yes;BIG-IP-test-1.local;test.local;10.1.3.196;/24;10.1.3.199;external;;10.1.4.196;/24;10.1.4.199;internal;;10.1.5.196;/24;HA;;;;;10.1.2.197;BIG-IP-test-2.local;10.1.7.12;192.168.10.12;server0.europe.pool.ntp.org;;
-10.1.2.197;no;BIG-IP-test-2.local;test.local;10.1.3.197;/24;10.1.3.199;external;;10.1.4.197;/24;10.1.4.199;internal;;10.1.5.197;/24;HA;;;;;;;10.1.7.12;192.168.10.12;;;
